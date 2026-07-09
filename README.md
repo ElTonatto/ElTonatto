@@ -74,21 +74,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElTonatto&theme=dracula" alt="Resumo do perfil GitHub" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElTonatto&theme=dracula" alt="Estatisticas do GitHub" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElTonatto&theme=dracula&utcOffset=-3" alt="Horario produtivo no GitHub" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElTonatto&theme=dracula" alt="Repositorios por linguagem" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElTonatto&theme=dracula" alt="Commits por linguagem" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ElTonatto&theme=midnight-purple&hide_border=true&border_radius=8&locale=pt_BR" alt="Sequencia de contribuicoes no GitHub" />
+  <img src="./assets/github-stats-purple.svg" alt="GitHub stats em estilo roxo escuro" width="100%" />
 </p>
 
 ## Contribuicoes em modo snake
