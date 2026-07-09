@@ -56,7 +56,7 @@
 
       .stack {
         fill: #e9d5ff;
-        font: 700 15px Consolas, "Fira Code", monospace;
+        font: 700 14px Consolas, "Fira Code", monospace;
       }
 
       .note {
@@ -65,8 +65,8 @@
       }
 
       .fade {
-        opacity: 0;
-        animation: fadeIn 850ms ease-out forwards;
+        opacity: 1;
+        animation: fadeIn 850ms ease-out both;
       }
 
       .delay-1 { animation-delay: 120ms; }
@@ -77,8 +77,8 @@
       .scan { animation: scan 4.8s linear infinite; }
 
       @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(7px); }
-        to { opacity: 1; transform: translateY(0); }
+        from { opacity: 0; }
+        to { opacity: 1; }
       }
 
       @keyframes pulse {
@@ -139,51 +139,59 @@
 
   <g class="fade delay-2" transform="translate(716 48)">
     <text class="title" x="0" y="0">Languages &amp; Stack</text>
+    <text class="note" x="0" y="27">README + LinkedIn profile stack</text>
 
-    <rect x="0" y="44" width="366" height="14" rx="7" fill="#16051f" />
-    <rect x="0.00" y="44" width="33.01" height="14" rx="7" fill="#facc15" />
-    <rect x="33.01" y="44" width="27.99" height="14" fill="#3776ab" />
-    <rect x="61.00" y="44" width="26.55" height="14" fill="#e34f26" />
-    <rect x="87.55" y="44" width="25.84" height="14" fill="#1572b6" />
-    <rect x="113.39" y="44" width="30.86" height="14" fill="#777bb4" />
-    <rect x="144.25" y="44" width="27.27" height="14" fill="#38bdf8" />
-    <rect x="171.52" y="44" width="24.40" height="14" fill="#f97316" />
-    <rect x="195.92" y="44" width="20.81" height="14" fill="#a855f7" />
-    <rect x="216.73" y="44" width="22.96" height="14" fill="#3178c6" />
-    <rect x="239.69" y="44" width="29.42" height="14" fill="#21759b" />
-    <rect x="269.11" y="44" width="25.12" height="14" fill="#42b883" />
-    <rect x="294.23" y="44" width="23.68" height="14" fill="#ffffff" />
-    <rect x="317.91" y="44" width="25.84" height="14" fill="#06b6d4" />
-    <rect x="343.75" y="44" width="22.25" height="14" rx="7" fill="#3fcf8e" />
+    <rect x="0" y="52" width="366" height="14" rx="7" fill="#16051f" />
+    <rect x="0.00" y="52" width="33.01" height="14" rx="7" fill="#facc15" />
+    <rect x="33.01" y="52" width="27.99" height="14" fill="#3776ab" />
+    <rect x="61.00" y="52" width="26.55" height="14" fill="#e34f26" />
+    <rect x="87.55" y="52" width="25.84" height="14" fill="#1572b6" />
+    <rect x="113.39" y="52" width="30.86" height="14" fill="#777bb4" />
+    <rect x="144.25" y="52" width="27.27" height="14" fill="#38bdf8" />
+    <rect x="171.52" y="52" width="24.40" height="14" fill="#f97316" />
+    <rect x="195.92" y="52" width="20.81" height="14" fill="#a855f7" />
+    <rect x="216.73" y="52" width="22.96" height="14" fill="#3178c6" />
+    <rect x="239.69" y="52" width="29.42" height="14" fill="#21759b" />
+    <rect x="269.11" y="52" width="25.12" height="14" fill="#42b883" />
+    <rect x="294.23" y="52" width="23.68" height="14" fill="#ffffff" />
+    <rect x="317.91" y="52" width="25.84" height="14" fill="#06b6d4" />
+    <rect x="343.75" y="52" width="22.25" height="14" rx="7" fill="#3fcf8e" />
 
-    <circle cx="8" cy="81" r="7" fill="#facc15" filter="url(#dotGlow)" />
-    <text class="stack" x="24" y="86">JavaScript</text>
-    <circle cx="8" cy="109" r="7" fill="#3776ab" filter="url(#dotGlow)" />
-    <text class="stack" x="24" y="114">Python</text>
-    <circle cx="8" cy="137" r="7" fill="#e34f26" filter="url(#dotGlow)" />
-    <text class="stack" x="24" y="142">HTML</text>
-    <circle cx="8" cy="165" r="7" fill="#1572b6" filter="url(#dotGlow)" />
-    <text class="stack" x="24" y="170">CSS</text>
-    <circle cx="8" cy="193" r="7" fill="#777bb4" filter="url(#dotGlow)" />
-    <text class="stack" x="24" y="198">PHP</text>
-    <circle cx="8" cy="221" r="7" fill="#38bdf8" filter="url(#dotGlow)" />
-    <text class="stack" x="24" y="226">SQL</text>
-    <circle cx="8" cy="249" r="7" fill="#f97316" filter="url(#dotGlow)" />
-    <text class="stack" x="24" y="254">Java</text>
-    <circle cx="218" cy="81" r="7" fill="#a855f7" filter="url(#dotGlow)" />
-    <text class="stack" x="234" y="86">C</text>
-    <circle cx="218" cy="109" r="7" fill="#3178c6" filter="url(#dotGlow)" />
-    <text class="stack" x="234" y="114">TypeScript</text>
-    <circle cx="218" cy="137" r="7" fill="#21759b" filter="url(#dotGlow)" />
-    <text class="stack" x="234" y="142">WordPress</text>
-    <circle cx="218" cy="165" r="7" fill="#42b883" filter="url(#dotGlow)" />
-    <text class="stack" x="234" y="170">Vue.js</text>
-    <circle cx="218" cy="193" r="7" fill="#ffffff" filter="url(#dotGlow)" />
-    <text class="stack" x="234" y="198">Next.js</text>
-    <circle cx="218" cy="193" r="7" fill="none" stroke="#a855f7" stroke-width="1.5" />
-    <circle cx="218" cy="221" r="7" fill="#06b6d4" filter="url(#dotGlow)" />
-    <text class="stack" x="234" y="226">Tailwind</text>
-    <circle cx="218" cy="249" r="7" fill="#3fcf8e" filter="url(#dotGlow)" />
-    <text class="stack" x="234" y="254">Supabase</text>
+    <circle cx="8" cy="79" r="7" fill="#facc15" filter="url(#dotGlow)" />
+    <text class="stack" x="24" y="84">JavaScript</text>
+    <circle cx="8" cy="99" r="7" fill="#3776ab" filter="url(#dotGlow)" />
+    <text class="stack" x="24" y="104">Python</text>
+    <circle cx="8" cy="119" r="7" fill="#e34f26" filter="url(#dotGlow)" />
+    <text class="stack" x="24" y="124">HTML</text>
+    <circle cx="8" cy="139" r="7" fill="#1572b6" filter="url(#dotGlow)" />
+    <text class="stack" x="24" y="144">CSS</text>
+    <circle cx="8" cy="159" r="7" fill="#777bb4" filter="url(#dotGlow)" />
+    <text class="stack" x="24" y="164">PHP</text>
+    <circle cx="8" cy="179" r="7" fill="#38bdf8" filter="url(#dotGlow)" />
+    <text class="stack" x="24" y="184">SQL</text>
+    <circle cx="8" cy="199" r="7" fill="#f97316" filter="url(#dotGlow)" />
+    <text class="stack" x="24" y="204">Java</text>
+    <circle cx="218" cy="79" r="7" fill="#a855f7" filter="url(#dotGlow)" />
+    <text class="stack" x="234" y="84">C</text>
+    <circle cx="218" cy="99" r="7" fill="#3178c6" filter="url(#dotGlow)" />
+    <text class="stack" x="234" y="104">TypeScript</text>
+    <circle cx="218" cy="119" r="7" fill="#21759b" filter="url(#dotGlow)" />
+    <text class="stack" x="234" y="124">WordPress</text>
+    <circle cx="218" cy="139" r="7" fill="#42b883" filter="url(#dotGlow)" />
+    <text class="stack" x="234" y="144">Vue.js</text>
+    <circle cx="218" cy="159" r="7" fill="#ffffff" filter="url(#dotGlow)" />
+    <text class="stack" x="234" y="164">Next.js</text>
+    <circle cx="218" cy="159" r="7" fill="none" stroke="#a855f7" stroke-width="1.5" />
+    <circle cx="218" cy="179" r="7" fill="#06b6d4" filter="url(#dotGlow)" />
+    <text class="stack" x="234" y="184">Tailwind</text>
+    <circle cx="218" cy="199" r="7" fill="#3fcf8e" filter="url(#dotGlow)" />
+    <text class="stack" x="234" y="204">Supabase</text>
+
+    <rect x="0" y="220" width="98" height="22" rx="11" fill="#150018" stroke="#701a75" stroke-width="1" />
+    <text class="note" x="15" y="235">Frontend</text>
+    <rect x="112" y="220" width="92" height="22" rx="11" fill="#150018" stroke="#701a75" stroke-width="1" />
+    <text class="note" x="128" y="235">Backend</text>
+    <rect x="218" y="220" width="148" height="22" rx="11" fill="#150018" stroke="#701a75" stroke-width="1" />
+    <text class="note" x="232" y="235">CMS + Database</text>
   </g>
 </svg>
