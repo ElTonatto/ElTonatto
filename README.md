@@ -77,7 +77,7 @@
   <img src="./assets/github-stats-purple.svg" alt="GitHub stats em estilo roxo escuro" width="100%" />
 </p>
 
-## Contribuicoes em modo snake
+## 
 
 <p align="center">
   <picture>
