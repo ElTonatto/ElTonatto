@@ -74,7 +74,11 @@
 
 
 <p align="center">
-  <img src="./assets/purple-snake-contributions.gif" alt="Animacao roxa estilo jogo da cobrinha para contribuicoes" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElTonatto/ElTonatto/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElTonatto/ElTonatto/output/github-contribution-grid-snake.svg" />
+    <img alt="Animacao roxa estilo jogo da cobrinha baseada nas contribuicoes reais" src="https://raw.githubusercontent.com/ElTonatto/ElTonatto/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ## Experiencia
