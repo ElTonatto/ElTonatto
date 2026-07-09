@@ -7,20 +7,23 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+evolucao;Criando+quests+com+codigo;JavaScript+%7C+Python+%7C+TypeScript+%7C+WordPress"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=820&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Web+em+evolucao;JavaScript+%7C+Python+%7C+TypeScript+%7C+WordPress;Aberto+a+projetos+e+colaboracoes"
       alt="Animacao de texto digitando"
     />
   </a>
 </p>
 
 <p align="center">
-  Sou estudante de Engenharia de Software e gosto de criar projetos praticos,
-  aprender novas tecnologias e transformar ideias em codigo.
+  Estudante de Engenharia de Software em Curitiba, com foco em desenvolvimento web,
+  projetos praticos e evolucao constante como desenvolvedor.
 </p>
 
 <p align="center">
   <a href="mailto:eduardotonatto3@gmail.com">
     <img src="https://img.shields.io/badge/Email-eduardotonatto3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardotonatto/">
+    <img src="https://img.shields.io/badge/LinkedIn-eduardotonatto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ElTonatto">
     <img src="https://img.shields.io/badge/GitHub-ElTonatto-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -31,10 +34,11 @@
 
 ## Sobre mim
 
-- Atualmente estudo Engenharia de Software.
-- Tenho interesse em desenvolvimento web, interfaces, automacao e projetos praticos.
-- Busco evoluir todos os dias criando, testando e melhorando minhas habilidades.
-- Gosto de aprender com desafios reais e colaborar em projetos que geram resultado.
+- Estudante de Engenharia de Software.
+- Interesse em desenvolvimento web, interfaces, automacao e WordPress.
+- Busco evoluir criando projetos reais, praticando logica e melhorando meu codigo.
+- Perfil colaborativo, com vontade de aprender, contribuir e crescer na area de tecnologia.
+- Curitiba, Parana - Brasil.
 
 ## Tecnologias que utilizo
 
@@ -61,6 +65,7 @@
 - Criando projetos com JavaScript, Python e TypeScript.
 - Melhorando minhas habilidades em frontend, WordPress e logica de programacao.
 - Explorando C e boas praticas para crescer como desenvolvedor.
+- Mantendo meu GitHub alinhado ao meu perfil profissional no LinkedIn.
 
 ## Vamos conversar
 
@@ -69,5 +74,8 @@ Se quiser colaborar em algum projeto ou trocar ideia sobre programacao, entre em
 <p align="center">
   <a href="mailto:eduardotonatto3@gmail.com">
     <img src="https://img.shields.io/badge/Enviar%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardotonatto/">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
   </a>
 </p>
