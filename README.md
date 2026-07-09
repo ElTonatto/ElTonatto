@@ -71,6 +71,12 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
+## Contribuicoes em modo snake
+
+<p align="center">
+  <img src="./assets/purple-snake-contributions.gif" alt="Animacao roxa estilo jogo da cobrinha para contribuicoes" width="100%" />
+</p>
+
 ## Experiencia
 
 - Desenvolvedor Web na Agencia Gemini Marketing Digital.
