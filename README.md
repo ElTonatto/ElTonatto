@@ -56,12 +56,11 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## Estatisticas do GitHub
+## Em evolucao
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElTonatto&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatisticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElTonatto&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
+- Criando projetos com JavaScript, Python e TypeScript.
+- Melhorando minhas habilidades em frontend, WordPress e logica de programacao.
+- Explorando C e boas praticas para crescer como desenvolvedor.
 
 ## Vamos conversar
 
